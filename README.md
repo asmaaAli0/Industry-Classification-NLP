@@ -36,7 +36,7 @@ And finally I choose to combine oversampling with weighted cost :ok_hand:
 # Flask API
 ### I used Flask API to create a RESTful API for my model. The Model is not recompiled or trained each request, it just predicts upon the given data in request.
 
-**Flask** is a web framework for Python, meaning that it provides functionality for building web applications, including managing HTTP requests and rendering templates. In this section, we will create a basic Flask application. In later sections, we’ll add to this application to create our API. Don’t worry if you don’t understand each individual line of code yet—explanations will be forthcoming once you have this initial version of the application working.
+**Flask** is a web framework for Python, meaning that it provides functionality for building web applications, including managing HTTP requests and rendering templates. 
 
 
 
